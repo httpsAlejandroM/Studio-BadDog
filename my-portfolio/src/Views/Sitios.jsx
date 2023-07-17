@@ -79,7 +79,7 @@ function Sitios() {
 
 
       </section>
-      <section id='multipage' className='min-vh-100 bg-hero-image' style={{ backgroundImage: `url(${bgMulti})` }} >
+      <section id='multipage' className='min-vh-100 bg-hero-image' style={{ backgroundImage: `url(${bg2})` }} >
       <article className='bg-alpha-color min-vh-100 d-flex align-items-center'>
           <div className='container'>
             <article className='col-12 col-lg-6'>
