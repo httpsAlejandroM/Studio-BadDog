@@ -12,7 +12,7 @@ function Navbar() {
       <nav className="navbar  navbar-expand-lg navbar-dark bg-dark">
         <div className="container ">
           <Link className="navbar-brand" to="/">
-            <img src="/src/assets/baddog/bad-dog-studio-logo.png" alt="logo bad dog" />
+            <img src="/dist/assets/bad-dog-studio-logo.png" alt="logo bad dog" />
           </Link>
           <button className="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>

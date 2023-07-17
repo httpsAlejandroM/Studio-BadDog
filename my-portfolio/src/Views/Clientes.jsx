@@ -34,7 +34,7 @@ function Clientes() {
                     <p>
                       Posicioné una nueva marca comercial (en línea) y diseñé un sitio web adaptado y hecho a medida.
                     </p>
-                    <img className='img-fluid' src="/src/assets/baddog/work-layout-1.jpg" alt="Commerce AI" />
+                    <img className='img-fluid' src="/dist/assets/work-layout-1.jpg" alt="Commerce AI" />
                   </div>
                 </div>
               </div>
@@ -70,7 +70,7 @@ function Clientes() {
                       trabajar en conjunto, lo que dio como resultado un sitio web de diseño personalizado y muy
                       creativo con una tienda en línea.
                     </p>
-                    <img className='img-fluid' src="/src/assets/baddog/work-layout-2.jpg" alt="Walkers" />
+                    <img className='img-fluid' src="/dist/assets/work-layout-2.jpg" alt="Walkers" />
                   </div>
                 </div>
               </div>
@@ -106,7 +106,7 @@ function Clientes() {
                       super divertido para trabajar juntos. ¡Ambos estamos imaginando una buena relación
                       de negocios para trabajar nuevamente en proyectos futuros!
                     </p>
-                    <img className='img-fluid' src="/src/assets/baddog/work-layout-3.jpg" alt="Hey textile" />
+                    <img className='img-fluid' src="/dist/assets/work-layout-3.jpg" alt="Hey textile" />
                   </div>
                 </div>
               </div>
@@ -139,7 +139,7 @@ function Clientes() {
                       Estaba buscando un sitio web de aplicación de estilo moderno y me dio mucha libertad para crear un diseño que tenía en mente.
                       El resultado es un sitio web de aspecto moderno del que ambos estamos orgullosos.
                     </p>
-                    <img className='img-fluid' src="/src/assets/baddog/work-layout-4.jpg" alt="Basis networks" />
+                    <img className='img-fluid' src="/dist/assets/work-layout-4.jpg" alt="Basis networks" />
                   </div>
                 </div>
               </div>
@@ -172,7 +172,7 @@ function Clientes() {
                       Hemos trabajado juntos en varios proyectos de sitios web de (re) diseño y (re) marca.
                       Estoy muy contento de que nuestra relación continua demuestre que puedo ofrecer la calidad que requieren en sus proyectos.
                     </p>
-                    <img className='img-fluid' src="/src/assets/baddog/work-layout-5.jpg" alt="Swingvy" />
+                    <img className='img-fluid' src="/dist/assets/work-layout-5.jpg" alt="Swingvy" />
                   </div>
                 </div>
               </div>
@@ -205,7 +205,7 @@ function Clientes() {
                       Hemos trabajado juntos en varios proyectos de sitios web de (re) diseño y (re) marca.
                       Estoy muy contento de que nuestra relación continua demuestre que puedo ofrecer la calidad que requieren en sus proyectos.
                     </p>
-                    <img className='img-fluid' src="/src/assets/baddog/work-layout-6.jpg" alt="Lash Spa Studio" />
+                    <img className='img-fluid' src="/dist/assets/work-layout-6.jpg" alt="Lash Spa Studio" />
                   </div>
                 </div>
               </div>
@@ -238,7 +238,7 @@ function Clientes() {
                       Bambuu ha demostrado ser un negocio de inicio muy exitoso en los Países Bajos y estoy muy contento de poder ofrecer la calidad de trabajo que ofrecen.
                       Requieren en sus proyectos.
                     </p>
-                    <img className='img-fluid' src="/src/assets/baddog/work-layout-7.jpg" alt="Bambuu" />
+                    <img className='img-fluid' src="/dist/assets/work-layout-7.jpg" alt="Bambuu" />
                   </div>
                 </div>
               </div>
@@ -271,7 +271,7 @@ function Clientes() {
                       Estaban lanzando un Template Marketplace en ese entonces y me pidieron que fuera parte de él.
                       ¡He estado creando plantillas de flujo web html5 modernas y receptivas para ellos desde entonces!
                     </p>
-                    <img className='img-fluid' src="/src/assets/baddog/work-layout-8.jpg" alt="Webflow" />
+                    <img className='img-fluid' src="/dist/assets/work-layout-8.jpg" alt="Webflow" />
                   </div>
                 </div>
               </div>
