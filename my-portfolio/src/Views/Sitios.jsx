@@ -1,6 +1,4 @@
 import React from 'react'
-import background from "../assets/baddog/site-singlepage.jpg"
-import bgMulti from "../assets/baddog/site-multipage.jpg"
 import { Link } from 'react-router-dom'
 
 function Sitios() {
