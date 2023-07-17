@@ -11,7 +11,7 @@ function Clientes() {
           </article>
           <article className='col-12'>
             <div className="card text-bg-dark border-0 rounded-0">
-              <img src="src\assets\baddog\clients-1.jpg" className="card-img" alt="Andy Pandharikar" />
+              <img src="https://i.ibb.co/ZBGtSQn/clients-1.jpg" className="card-img" alt="Andy Pandharikar" />
               <div className="card-img-overlay bg-second-alpha-color d-flex flex-column justify-content-md-center">
                 <h5 className="card-title">Andy Pandharikar</h5>
                 <p className="card-text"><small>CEO/Co-funder, Commerce AI</small>
@@ -34,7 +34,7 @@ function Clientes() {
                     <p>
                       Posicioné una nueva marca comercial (en línea) y diseñé un sitio web adaptado y hecho a medida.
                     </p>
-                    <img className='img-fluid' src="./src/assets/baddog/work-layout-1.jpg" alt="Commerce AI" />
+                    <img className='img-fluid' src="https://i.ibb.co/KKkTxV8/work-layout-1.jpg" alt="Commerce AI" />
                   </div>
                 </div>
               </div>
@@ -42,7 +42,7 @@ function Clientes() {
           </article>
           <article className='col-12 col-sm-6 col-lg-4'>
             <div className="card text-bg-dark border-0 rounded-0">
-              <img src="src\assets\baddog\clients-2.jpg" className="card-img" alt="Zeb Couch" />
+              <img src="https://i.ibb.co/wdJFZQS/clients-2.jpg" className="card-img" alt="Zeb Couch" />
               <div className="card-img-overlay bg-second-alpha-color d-flex flex-column justify-content-md-center">
                 <h5 className="card-title">Zeb Couch</h5>
                 <p className="card-text"><small>Dueño de Zeb Couch</small>
@@ -70,7 +70,7 @@ function Clientes() {
                       trabajar en conjunto, lo que dio como resultado un sitio web de diseño personalizado y muy
                       creativo con una tienda en línea.
                     </p>
-                    <img className='img-fluid' src="./src/assets/baddog/work-layout-2.jpg" alt="Walkers" />
+                    <img className='img-fluid' src="https://i.ibb.co/2jhNGFP/work-layout-2.jpg" alt="Walkers" />
                   </div>
                 </div>
               </div>
@@ -78,7 +78,7 @@ function Clientes() {
           </article>
           <article className='col-12 col-sm-6 col-lg-4'>
             <div className="card text-bg-dark border-0 rounded-0">
-              <img src="src\assets\baddog\clients-3.jpg" className="card-img" alt="Lori Knisely" />
+              <img src="https://i.ibb.co/mtYWrYB/clients-3.jpg" className="card-img" alt="Lori Knisely" />
               <div className="card-img-overlay bg-second-alpha-color d-flex flex-column justify-content-md-center">
                 <h5 className="card-title">Lori Knisely</h5>
                 <p className="card-text"><small>Co-dueña & Diseñadora de Hey Textile</small>
@@ -106,7 +106,7 @@ function Clientes() {
                       super divertido para trabajar juntos. ¡Ambos estamos imaginando una buena relación
                       de negocios para trabajar nuevamente en proyectos futuros!
                     </p>
-                    <img className='img-fluid' src="./src/assets/baddog/work-layout-3.jpg" alt="Hey textile" />
+                    <img className='img-fluid' src="https://i.ibb.co/3hZn82h/work-layout-3.jpg" alt="Hey textile" />
                   </div>
                 </div>
               </div>
@@ -114,7 +114,7 @@ function Clientes() {
           </article>
           <article className='col-12 col-sm-6 col-lg-4'>
             <div className="card text-bg-dark border-0 rounded-0">
-              <img src="src\assets\baddog\clients-4.jpg" className="card-img" alt="Tom Allan" />
+              <img src="https://i.ibb.co/TqRbkJz/clients-4.jpg" className="card-img" alt="Tom Allan" />
               <div className="card-img-overlay bg-second-alpha-color d-flex flex-column justify-content-md-center">
                 <h5 className="card-title">Tom Allan</h5>
                 <p className="card-text"><small>Co-fundador & Director, Basis Networks</small>
@@ -139,7 +139,7 @@ function Clientes() {
                       Estaba buscando un sitio web de aplicación de estilo moderno y me dio mucha libertad para crear un diseño que tenía en mente.
                       El resultado es un sitio web de aspecto moderno del que ambos estamos orgullosos.
                     </p>
-                    <img className='img-fluid' src="./src/assets/baddog/work-layout-4.jpg" alt="Basis networks" />
+                    <img className='img-fluid' src="https://i.ibb.co/0mdYynX/work-layout-4.jpg" alt="Basis networks" />
                   </div>
                 </div>
               </div>
@@ -147,7 +147,7 @@ function Clientes() {
           </article>
           <article className='col-12 col-sm-6 col-lg-4'>
             <div className="card text-bg-dark border-0 rounded-0">
-              <img src="src\assets\baddog\clients-5.jpg" className="card-img" alt="Jin Choeh" />
+              <img src="https://i.ibb.co/Lr6Pwcy/clients-5.jpg" className="card-img" alt="Jin Choeh" />
               <div className="card-img-overlay bg-second-alpha-color d-flex flex-column justify-content-md-center">
                 <h5 className="card-title">Jin Choeh</h5>
                 <p className="card-text"><small>Co-founder & CEO Swingvy</small>
@@ -172,7 +172,7 @@ function Clientes() {
                       Hemos trabajado juntos en varios proyectos de sitios web de (re) diseño y (re) marca.
                       Estoy muy contento de que nuestra relación continua demuestre que puedo ofrecer la calidad que requieren en sus proyectos.
                     </p>
-                    <img className='img-fluid' src="./src/assets/baddog/work-layout-5.jpg" alt="Swingvy" />
+                    <img className='img-fluid' src="https://i.ibb.co/TW0p5V8/work-layout-5.jpg" alt="Swingvy" />
                   </div>
                 </div>
               </div>
@@ -180,7 +180,7 @@ function Clientes() {
           </article>
           <article className='col-12 col-sm-6 col-lg-4'>
             <div className="card text-bg-dark border-0 rounded-0">
-              <img src="src\assets\baddog\clients-6.jpg" className="card-img" alt="Jennifer Blair" />
+              <img src="https://i.ibb.co/Y7vdPLR/clients-6.jpg" className="card-img" alt="Jennifer Blair" />
               <div className="card-img-overlay bg-second-alpha-color d-flex flex-column justify-content-md-center">
                 <h5 className="card-title">Jennifer Blair</h5>
                 <p className="card-text"><small>CEO Lash Spa Studio</small>
@@ -205,7 +205,7 @@ function Clientes() {
                       Hemos trabajado juntos en varios proyectos de sitios web de (re) diseño y (re) marca.
                       Estoy muy contento de que nuestra relación continua demuestre que puedo ofrecer la calidad que requieren en sus proyectos.
                     </p>
-                    <img className='img-fluid' src="./src/assets/baddog/work-layout-6.jpg" alt="Lash Spa Studio" />
+                    <img className='img-fluid' src="https://i.ibb.co/c1Fq37J/work-layout-6.jpg" alt="Lash Spa Studio" />
                   </div>
                 </div>
               </div>
@@ -213,7 +213,7 @@ function Clientes() {
           </article>
           <article className='col-12 col-sm-6 col-lg-4'>
             <div className="card text-bg-dark border-0 rounded-0">
-              <img src="src\assets\baddog\clients-7.jpg" className="card-img" alt="Sietse Kingma" />
+              <img src="https://i.ibb.co/SxTYJmy/clients-7.jpg" className="card-img" alt="Sietse Kingma" />
               <div className="card-img-overlay bg-second-alpha-color d-flex flex-column justify-content-md-center">
                 <h5 className="card-title">Sietse Kingma</h5>
                 <p className="card-text"><small>Co-fundador Bambuu BV</small>
@@ -238,7 +238,7 @@ function Clientes() {
                       Bambuu ha demostrado ser un negocio de inicio muy exitoso en los Países Bajos y estoy muy contento de poder ofrecer la calidad de trabajo que ofrecen.
                       Requieren en sus proyectos.
                     </p>
-                    <img className='img-fluid' src="./src/assets/baddog/work-layout-7.jpg" alt="Bambuu" />
+                    <img className='img-fluid' src="https://i.ibb.co/gy4FmVY/work-layout-7.jpg" alt="Bambuu" />
                   </div>
                 </div>
               </div>
@@ -246,7 +246,7 @@ function Clientes() {
           </article>
           <article className='col-12'>
             <div className="card text-bg-dark border-0 rounded-0">
-              <img src="src\assets\baddog\clients-8.jpg" className="card-img" alt="ASergie Magdalin" />
+              <img src="https://i.ibb.co/rmDfys8/clients-8.jpg" className="card-img" alt="ASergie Magdalin" />
               <div className="card-img-overlay bg-second-alpha-color d-flex flex-column justify-content-md-center">
                 <h5 className="card-title">Sergie Magdalin</h5>
                 <p className="card-text"><small>Co-fundador de Webflow</small>
@@ -271,7 +271,7 @@ function Clientes() {
                       Estaban lanzando un Template Marketplace en ese entonces y me pidieron que fuera parte de él.
                       ¡He estado creando plantillas de flujo web html5 modernas y receptivas para ellos desde entonces!
                     </p>
-                    <img className='img-fluid' src="./src/assets/baddog/work-layout-8.jpg" alt="Webflow" />
+                    <img className='img-fluid' src="https://i.ibb.co/gy4FmVY/work-layout-7.jpg" alt="Webflow" />
                   </div>
                 </div>
               </div>
