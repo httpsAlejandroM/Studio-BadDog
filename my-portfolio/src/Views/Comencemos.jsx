@@ -23,7 +23,7 @@ function Comencemos() {
             iniciales, te presentaré un presupuesto oficial para el proyecto.</p>
           </article>
           <article className='col-12 col-lg-6'>
-            <img src="dist/assets/workflow-step-1.png" alt="Paso 1: Concepto y presupuesto" />
+            <img src="./src/assets/baddog/workflow-step-1.png" alt="Paso 1: Concepto y presupuesto" />
           </article>
         </section>
         <section className='row align-items-center'>
@@ -36,7 +36,7 @@ function Comencemos() {
                 En 7 días te presentaré un diseño profesional y apropiado para tu sitio web.</p>
           </article>
           <article className='col-12 col-lg-6'>
-            <img src="dist/assets/workflow-step-2.png" className='img-fluid' alt="Paso 2: Concepto y presupuesto" />
+            <img src="./src/assets/baddog/workflow-step-2.png" className='img-fluid' alt="Paso 2: Concepto y presupuesto" />
           </article>
         </section>
         <section className='row align-items-center'>
@@ -48,7 +48,7 @@ function Comencemos() {
               Esto evita perder tiempo y presupuesto. Es importante compartir buenos comentarios.</p>
           </article>
           <article className='col-12 col-lg-6'>
-            <img src="dist/assets/workflow-step-3.png" alt="Paso 3: Concepto y presupuesto" />
+            <img src="./src/assets/baddog/workflow-step-3.png" alt="Paso 3: Concepto y presupuesto" />
           </article>
         </section>
         <section className='row align-items-center'>
@@ -59,7 +59,7 @@ function Comencemos() {
                En consulta contigo, también se procesa el contenido final, como textos y fotos.</p>
           </article>
           <article className='col-12 col-lg-6'>
-            <img src="dist/assets/workflow-step-4.png" className='img-fluid' alt="Paso 4: Concepto y presupuesto" />
+            <img src="./src/assets/baddog/workflow-step-4.png" className='img-fluid' alt="Paso 4: Concepto y presupuesto" />
           </article>
         </section>
         <section className='row align-items-center'>
@@ -73,7 +73,7 @@ function Comencemos() {
                  Los cambios mayores tendrán costos adicionales<sup className='text-first-color fw-bold'>*</sup>.</p>
           </article>
           <article className='col-12 col-lg-6'>
-            <img src="dist/assets/workflow-step-5.png" alt="Paso 5: Concepto y presupuesto" />
+            <img src="./src/assets/baddog/workflow-step-5.png" alt="Paso 5: Concepto y presupuesto" />
           </article>
         </section>
           <article>
