@@ -4,8 +4,8 @@ import { useLocation } from 'react-router-dom'
 
 function Navbar() {
   const location = useLocation()
-
- 
+  const collapseElementList = document.querySelectorAll('.collapse')
+  const collapseList = [...collapseElementList].map(collapseEl => new bootstrap.Collapse(collapseEl))
 
   return (
     <div className='sticky-top'>
@@ -14,7 +14,7 @@ function Navbar() {
           <Link className="navbar-brand" to="/">
             <img src="https://i.ibb.co/88mqstj/bad-dog-studio-logo.png" alt="logo bad dog" />
           </Link>
-          <button className="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <button className="navbar-toggler border-0" type="button" data-bs-toggle="collapse"  data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse" id="navbarNavDropdown">
