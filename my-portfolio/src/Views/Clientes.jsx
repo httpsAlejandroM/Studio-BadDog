@@ -10,8 +10,8 @@ function Clientes() {
             <p className='fs-5'>Aquí hay una selección de clientes felices y hermosos proyectos.</p>
           </article>
           <article className='col-12'>
-            <div className="card text-bg-dark border-0 rounded-0">
-              <img src="https://i.ibb.co/ZBGtSQn/clients-1.jpg" className="card-img" alt="Andy Pandharikar" />
+            <div className="card text-bg-dark border-0 rounded-0 ">
+              <img src="https://i.ibb.co/ZBGtSQn/clients-1.jpg" className="card-img sm-img" alt="Andy Pandharikar" />
               <div className="card-img-overlay bg-second-alpha-color d-flex flex-column justify-content-md-center">
                 <h5 className="card-title">Andy Pandharikar</h5>
                 <p className="card-text"><small>CEO/Co-funder, Commerce AI</small>
@@ -41,7 +41,7 @@ function Clientes() {
             </div>
           </article>
           <article className='col-12 col-sm-6 col-lg-4'>
-            <div className="card text-bg-dark border-0 rounded-0">
+            <div className="card text-bg-dark border-0 rounded-0 ">
               <img src="https://i.ibb.co/wdJFZQS/clients-2.jpg" className="card-img" alt="Zeb Couch" />
               <div className="card-img-overlay bg-second-alpha-color d-flex flex-column justify-content-md-center">
                 <h5 className="card-title">Zeb Couch</h5>
@@ -246,7 +246,7 @@ function Clientes() {
           </article>
           <article className='col-12'>
             <div className="card text-bg-dark border-0 rounded-0">
-              <img src="https://i.ibb.co/rmDfys8/clients-8.jpg" className="card-img" alt="ASergie Magdalin" />
+              <img src="https://i.ibb.co/rmDfys8/clients-8.jpg" className="card-img sm-img2" alt="ASergie Magdalin" />
               <div className="card-img-overlay bg-second-alpha-color d-flex flex-column justify-content-md-center">
                 <h5 className="card-title">Sergie Magdalin</h5>
                 <p className="card-text"><small>Co-fundador de Webflow</small>
