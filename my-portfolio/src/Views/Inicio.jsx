@@ -25,7 +25,7 @@ function Inicio() {
                                 <div className="card-body">
                                     <h5 className="card-title">Nuevo sitio web</h5>
                                     <p className="card-text">¿Necesitas un (Nuevo) sitio web 100% responsivo?</p>
-                                    <a href="#" className='text-third'>Más detalles <i className="bi bi-chevron-right"></i></a>
+                                    <Link to="/sitios" className='text-third'>Más detalles <i className="bi bi-chevron-right"></i></Link>
                                 </div>
                         </div>
                     </article>
@@ -35,7 +35,7 @@ function Inicio() {
                                 <div className="card-body">
                                     <h5 className="card-title">Clientes</h5>
                                     <p className="card-text">Clientes felices y proyectos hermosos.</p>
-                                    <a href="#" className='text-third'>Más detalles <i className="bi bi-chevron-right"></i></a>
+                                    <Link to="/clientes" className='text-third'>Más detalles <i className="bi bi-chevron-right"></i></Link>
                                 </div>
                         </div>
                     </article>
@@ -45,7 +45,7 @@ function Inicio() {
                                 <div className="card-body">
                                     <h5 className="card-title">Flujo de Trabajo</h5>
                                     <p className="card-text">Escucho tus necesidades. Discutamos tu proyecto.</p>
-                                    <a href="#" className='text-third'>Más detalles <i className="bi bi-chevron-right"></i></a>
+                                    <Link to="/comencemos" className='text-third'>Más detalles <i className="bi bi-chevron-right"></i></Link>
                                 </div>
                         </div>
                     </article>
@@ -55,7 +55,7 @@ function Inicio() {
                                 <div className="card-body">
                                     <h5 className="card-title">¿Interesado?</h5>
                                     <p className="card-text">Comencemos con tu nuevo proyecto</p>
-                                    <a href="#" className='text-third'>Más detalles <i className="bi bi-chevron-right"></i></a>
+                                    <Link to="/interes" className='text-third'>Más detalles <i className="bi bi-chevron-right"></i></Link>
                                 </div>
                         </div>
                     </article>
