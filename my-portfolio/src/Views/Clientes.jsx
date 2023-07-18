@@ -3,7 +3,7 @@ import React from 'react'
 function Clientes() {
   return (
     <main className='pt-5 bg-color'>
-      <div className='container'>
+      <div className='container mb-1'>
         <section className='row g-0'>
           <article className='col-12 text-center'>
             <h1>Clientes & Colaboraciones</h1>
