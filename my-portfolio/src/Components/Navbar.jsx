@@ -23,14 +23,9 @@ function Navbar() {
                 <Link className={`nav-link ${location.pathname === "/"? "active" : ""}`} to="/">Inicio</Link>
               </li>
               <li className="nav-item dropdown">
-                <Link to="/sitios" className={`nav-link dropdown-toggle ${location.pathname === "/sitios"? "active" : ""}`}   data-bs-toggle="dropdown" aria-expanded="false">
+                <Link to="/sitios" className={`nav-link  ${location.pathname === "/sitios"? "active" : ""}`} >
                   Sitios
                 </Link>
-                <ul className="dropdown-menu">
-                  <li><a className="dropdown-item" href="/sitios#ultimosproyectos">Ultimos proyectos</a></li>
-                  <li><a className="dropdown-item" href="/sitios#singlepage">Single page</a></li>
-                  <li><a className="dropdown-item" href="/sitios#multipage">Multi page</a></li>
-                </ul>
               </li>
               <li className="nav-item">
                 <Link className={`nav-link ${location.pathname === "/clientes"? "active" : ""}`} to="/clientes">Clientes</Link>
