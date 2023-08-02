@@ -20,7 +20,7 @@ function Navbar() {
     <div className='sticky-top'>
       <nav className="navbar  navbar-expand-lg navbar-dark bg-dark">
         <div className="container ">
-          <Link className="navbar-brand" to="/" onClick={collapseHandler} >
+          <Link className="navbar-brand" to="/">
             <img src="https://i.ibb.co/88mqstj/bad-dog-studio-logo.png" alt="logo bad dog" />
           </Link>
           <button className="navbar-toggler border-0" type="button" data-bs-toggle="collapse"  data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
