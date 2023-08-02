@@ -1,4 +1,9 @@
 import React from 'react'
+import workStep from "/src/assets/baddog/workflow-step-1.png"
+import workStep2 from "/src/assets/baddog/workflow-step-2.png"
+import workStep3 from "/src/assets/baddog/workflow-step-3.png"
+import workStep4 from "/src/assets/baddog/workflow-step-4.png"
+import workStep5 from "/src/assets/baddog/workflow-step-5.png"
 
 function Comencemos() {
   return (
@@ -23,7 +28,7 @@ function Comencemos() {
             iniciales, te presentaré un presupuesto oficial para el proyecto.</p>
           </article>
           <article className='col-12 col-lg-6'>
-            <img src="https://i.ibb.co/ww065z1/workflow-step-1.png"  className='img-fluid' alt="Paso 1: Concepto y presupuesto" />
+            <img src={workStep}  className='img-fluid' alt="Paso 1: Concepto y presupuesto" />
           </article>
         </section>
         <section className='row align-items-center'>
@@ -36,7 +41,7 @@ function Comencemos() {
                 En 7 días te presentaré un diseño profesional y apropiado para tu sitio web.</p>
           </article>
           <article className='col-12 col-lg-6'>
-            <img src="https://i.ibb.co/QpfpYfv/workflow-step-2.png" className='img-fluid' alt="Paso 2: Concepto y presupuesto" />
+            <img src={workStep2} className='img-fluid' alt="Paso 2: Concepto y presupuesto" />
           </article>
         </section>
         <section className='row align-items-center'>
@@ -48,7 +53,7 @@ function Comencemos() {
               Esto evita perder tiempo y presupuesto. Es importante compartir buenos comentarios.</p>
           </article>
           <article className='col-12 col-lg-6'>
-            <img src="https://i.ibb.co/s3633Ms/workflow-step-3.png" className='img-fluid' alt="Paso 3: Concepto y presupuesto" />
+            <img src={workStep3} className='img-fluid' alt="Paso 3: Concepto y presupuesto" />
           </article>
         </section>
         <section className='row align-items-center'>
@@ -59,7 +64,7 @@ function Comencemos() {
                En consulta contigo, también se procesa el contenido final, como textos y fotos.</p>
           </article>
           <article className='col-12 col-lg-6'>
-            <img src="https://i.ibb.co/Zz4Zw3d/workflow-step-4.png" className='img-fluid' alt="Paso 4: Concepto y presupuesto" />
+            <img src={workStep4} className='img-fluid' alt="Paso 4: Concepto y presupuesto" />
           </article>
         </section>
         <section className='row align-items-center'>
@@ -73,7 +78,7 @@ function Comencemos() {
                  Los cambios mayores tendrán costos adicionales<sup className='text-first-color fw-bold'>*</sup>.</p>
           </article>
           <article className='col-12 col-lg-6'>
-            <img src="https://i.ibb.co/H43J8GJ/workflow-step-5.png" className='img-fluid' alt="Paso 5: Concepto y presupuesto" />
+            <img src={workStep5} className='img-fluid' alt="Paso 5: Concepto y presupuesto" />
           </article>
         </section>
           <article>
