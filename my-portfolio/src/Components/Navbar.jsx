@@ -28,22 +28,22 @@ function Navbar() {
           </button>
           <div className="collapse navbar-collapse" id="navbarNavDropdown">
             <ul className="navbar-nav ms-lg-auto">
-              <li className="nav-item">
-                <Link className={`nav-link ${location.pathname === "/"? "active" : ""}`} onClick={collapseHandler} to="/">Inicio</Link>
+              <li className="nav-item" onClick={collapseHandler}>
+                <Link className={`nav-link ${location.pathname === "/"? "active" : ""}`}  to="/">Inicio</Link>
               </li>
-              <li className="nav-item dropdown">
-                <Link to="/sitios" className={`nav-link  ${location.pathname === "/sitios"? "active" : ""}`} onClick={collapseHandler} >
+              <li className="nav-item dropdown" onClick={collapseHandler}>
+                <Link to="/sitios" className={`nav-link  ${location.pathname === "/sitios"? "active" : ""}`}  >
                   Sitios
                 </Link>
               </li>
-              <li className="nav-item">
-                <Link className={`nav-link ${location.pathname === "/clientes"? "active" : ""}`} onClick={collapseHandler} to="/clientes">Clientes</Link>
+              <li className="nav-item"  onClick={collapseHandler} >
+                <Link className={`nav-link ${location.pathname === "/clientes"? "active" : ""}`}to="/clientes">Clientes</Link>
               </li>
-              <li className="nav-item">
-                <Link className={`nav-link ${location.pathname === "/comencemos"? "active" : ""}`} onClick={collapseHandler} to="/comencemos">Comencemos</Link>
+              <li className="nav-item"  onClick={collapseHandler}>
+                <Link className={`nav-link ${location.pathname === "/comencemos"? "active" : ""}`} to="/comencemos">Comencemos</Link>
               </li>
-              <li className="nav-item">
-                <Link className={`nav-link ${location.pathname === "/interes"? "active" : ""}`} onClick={collapseHandler} to="/interes">¿Interesado?</Link>
+              <li className="nav-item"  onClick={collapseHandler}>
+                <Link className={`nav-link ${location.pathname === "/interes"? "active" : ""}`} to="/interes">¿Interesado?</Link>
               </li>
 
             </ul>
