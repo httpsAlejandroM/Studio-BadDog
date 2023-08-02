@@ -1,10 +1,20 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import bg from "/src/assets/baddog/site-singlepage.jpg"
+import bg2 from "/src/assets/baddog/site-multipage.jpg"
+import workSlide from "/src/assets/baddog/work-slide-1.jpg"
+import workSlide2 from "/src/assets/baddog/work-slide-2.jpg"
+import workSlide3 from "/src/assets/baddog/work-slide-3.jpg"
+import workSlide4 from "/src/assets/baddog/work-slide-4.jpg"
+import workSlide5 from "/src/assets/baddog/work-slide-5.png"
+import workSlide6 from "/src/assets/baddog/work-slide-6.png"
+
+
 
 function Sitios() {
 
-  const bg = "https://i.ibb.co/T06MhJV/site-singlepage.jpg"
-  const bg2 = "https://i.ibb.co/bgDGwSB/site-multipage.jpg"
+  //const bg = "https://i.ibb.co/T06MhJV/site-singlepage.jpg"
+  //const bg2 = "https://i.ibb.co/bgDGwSB/site-multipage.jpg"
 
   return (
     <main className='pt-5 bg-color'>
@@ -16,22 +26,22 @@ function Sitios() {
         <div id="carouselExample" className="carousel slide">
           <div className="carousel-inner">
             <div className="carousel-item active">
-              <img src="https://i.ibb.co/v3mVj2G/work-slide-1.jpg" className="d-block w-100" alt="imagen carousel 1" />
+              <img src={workSlide} className="d-block w-100" alt="imagen carousel 1" />
             </div>
             <div className="carousel-item">
-              <img src="https://i.ibb.co/Z1w83jG/work-slide-2.jpg" className="d-block w-100" alt="imagen carousel 2" />
+              <img src={workSlide2} className="d-block w-100" alt="imagen carousel 2" />
             </div>
             <div className="carousel-item">
-              <img src="https://i.ibb.co/HgFp33T/work-slide-3.jpg" className="d-block w-100" alt="imagen carousel 3" />
+              <img src={workSlide3} className="d-block w-100" alt="imagen carousel 3" />
             </div>
             <div className="carousel-item">
-              <img src="https://i.ibb.co/TkR2VSG/work-slide-4.jpg" className="d-block w-100" alt="imagen carousel 4" />
+              <img src={workSlide4} className="d-block w-100" alt="imagen carousel 4" />
             </div>
             <div className="carousel-item">
-              <img src="https://i.ibb.co/FWX9LWh/work-slide-5.png" className="d-block w-100" alt="imagen carousel 5" />
+              <img src={workSlide5} className="d-block w-100" alt="imagen carousel 5" />
             </div>
             <div className="carousel-item">
-              <img src="https://i.ibb.co/MgxzwXC/work-slide-6.png" className="d-block w-100" alt="imagen carousel 6" />
+              <img src={workSlide6} className="d-block w-100" alt="imagen carousel 6" />
             </div>
           </div>
           <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
