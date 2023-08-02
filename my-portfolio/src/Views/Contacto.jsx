@@ -1,4 +1,8 @@
 import React from 'react'
+import imageAbout from "/src/assets/baddog/about-1.png"
+import imageAbout2 from "/src/assets/baddog/about-2.png"
+import imageAbout3 from "/src/assets/baddog/about-3.png"
+import imageAbout4 from "/src/assets/baddog/about-4.png"
 
 function Contacto() {
   return (
@@ -43,17 +47,17 @@ function Contacto() {
 
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src="https://i.ibb.co/X4GJtL0/about-1.jpg" className="d-block w-100" alt="About 1" />
+            <img src={imageAbout} className="d-block w-100" alt="About 1" />
 
           </div>
           <div className="carousel-item">
-            <img src="https://i.ibb.co/ZSKkhR2/about-2.jpg" className="d-block w-100" alt="About 2" />
+            <img src={imageAbout2} className="d-block w-100" alt="About 2" />
           </div>
           <div className="carousel-item">
-            <img src="https://i.ibb.co/gJYh2bj/about-3.jpg" className="d-block w-100" alt="About 3" />
+            <img src={imageAbout3} className="d-block w-100" alt="About 3" />
           </div>
           <div className="carousel-item">
-            <img src="https://i.ibb.co/jJcJQc6/about-4.jpg" className="d-block w-100" alt="About 4" />
+            <img src={imageAbout4} className="d-block w-100" alt="About 4" />
           </div>
           <div className="carousel-caption bg-second-alpha-color z-1 d-md-block">
             <article>
