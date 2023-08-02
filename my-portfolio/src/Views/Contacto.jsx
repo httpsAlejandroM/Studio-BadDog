@@ -1,8 +1,8 @@
 import React from 'react'
-import imageAbout from "/src/assets/baddog/about-1.png"
-import imageAbout2 from "/src/assets/baddog/about-2.png"
-import imageAbout3 from "/src/assets/baddog/about-3.png"
-import imageAbout4 from "/src/assets/baddog/about-4.png"
+import imageAbout from "/src/assets/baddog/about-1.jpg"
+import imageAbout2 from "/src/assets/baddog/about-2.jpg"
+import imageAbout3 from "/src/assets/baddog/about-3.jpg"
+import imageAbout4 from "/src/assets/baddog/about-4.jpg"
 
 function Contacto() {
   return (
